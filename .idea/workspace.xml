@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e32d50c8-744a-4dae-b1db-222dfee8129e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2iQ2fUo1VEd7rSgtrCaoBMxqlsr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/xampp1/htdocs/my_projects/AdminOperations",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp1\htdocs\my_projects\AdminOperations\View" />
+      <recent name="C:\xampp1\htdocs\my_projects\AdminOperations\View\payment" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e32d50c8-744a-4dae-b1db-222dfee8129e" name="Changes" comment="" />
+      <created>1719408584162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719408584162</updated>
+      <workItem from="1719408585179" duration="2046000" />
+      <workItem from="1719412625526" duration="24644000" />
+      <workItem from="1719823972622" duration="37000" />
+      <workItem from="1719864352180" duration="1327000" />
+      <workItem from="1719899019061" duration="6000" />
+      <workItem from="1719899037704" duration="57000" />
+      <workItem from="1719923141591" duration="3118000" />
+      <workItem from="1719941323510" duration="5000" />
+      <workItem from="1719941340910" duration="11774000" />
+      <workItem from="1719987348592" duration="16000" />
+      <workItem from="1720122395862" duration="1702000" />
+      <workItem from="1720124602414" duration="12000" />
+      <workItem from="1720360038854" duration="18905000" />
+      <workItem from="1720516033020" duration="4173000" />
+      <workItem from="1720632549851" duration="2440000" />
+      <workItem from="1720807938539" duration="1696000" />
+      <workItem from="1720898857604" duration="1459000" />
+      <workItem from="1720935417643" duration="1298000" />
+      <workItem from="1720977439568" duration="5514000" />
+      <workItem from="1722509351065" duration="11576000" />
+      <workItem from="1722587186175" duration="18000" />
+      <workItem from="1722598005075" duration="614000" />
+      <workItem from="1722705574335" duration="1142000" />
+      <workItem from="1722706744448" duration="5184000" />
+      <workItem from="1722738945069" duration="11225000" />
+      <workItem from="1722849852115" duration="1153000" />
+      <workItem from="1722959421883" duration="7822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
